@@ -1,2 +1,8 @@
 # AndroidTranslatePlug
-a translate multiply language plug designed by Python,need VPN
+A translate multiply language plug designed by Python,need VPN
+
+## English
+#### Libs need:
+pip install pygtrans
+pip install ElementTree
+
